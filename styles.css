@@ -434,6 +434,12 @@ section {
   margin: 0 auto;
 }
 
+.project-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
 .project-card {
   background: white;
   border-radius: 12px;
